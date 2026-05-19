@@ -142,7 +142,7 @@ passion   : "Apps that solve real-world problems with AI"
     <img src="https://img.shields.io/badge/Gmail-shanmukareddypadala-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/shanmuka-reddy">
+  <a href="https://www.linkedin.com/in/shanmuka-reddy-padala">
     <img src="https://img.shields.io/badge/LinkedIn-Shanmuka%20Reddy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
