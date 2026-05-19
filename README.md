@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:A855F7,100:EC4899&height=220&section=header&text=Padala%20Shanmuka%20Reddy&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mobile%20%26%20Full%20Stack%20Developer&descSize=18&descAlignY=58&descColor=E2C9FF"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:EC4899&height=200&section=header&text=Padala%20Shanmuka%20Reddy&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=45"/>
 </p>
+
+<h3 align="center">Mobile &amp; Full Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&multiline=false&width=750&lines=Flutter+%26+Full+Stack+Developer;AI-Powered+App+Builder;Firebase+%7C+Supabase+%7C+GCP+Engineer;Building+Real-World+AI+Apps"/>
@@ -154,7 +156,7 @@ passion   : "Apps that solve real-world problems with AI"
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:A855F7,100:6C63FF&height=130&section=footer&text=Let%27s%20Build%20Something%20Amazing!&fontSize=22&fontColor=ffffff&animation=twinkling&fontAlignY=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,100:6C63FF&height=130&section=footer&text=Let%27s%20Build%20Something%20Amazing!&fontSize=22&fontColor=ffffff&animation=twinkling&fontAlignY=60"/>
 </p>
 
 <p align="center">
