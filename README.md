@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&multiline=false&width=750&lines=🚀+Flutter+%26+Full+Stack+Developer;🤖+AI-Powered+App+Builder;☁️+Firebase+%7C+Supabase+%7C+GCP+Engineer;🔥+Building+Real-World+AI+Apps"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&multiline=false&width=750&lines=Flutter+%26+Full+Stack+Developer;AI-Powered+App+Builder;Firebase+%7C+Supabase+%7C+GCP+Engineer;Building+Real-World+AI+Apps"/>
 </p>
 
 <p align="center">
@@ -108,7 +108,7 @@ passion   : "Apps that solve real-world problems with AI"
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shanmuka-p&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=6C63FF&text_color=ffffff&border_radius=12" height="180"/>
   &nbsp;
-  <img src="https://streak-stats.demolab.com?user=shanmuka-p&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=EC4899&currStreakLabel=A855F7&border_radius=12" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shanmuka-p&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=EC4899&currStreakLabel=A855F7&border_radius=12" height="180"/>
 </p>
 
 <p align="center">
@@ -128,7 +128,7 @@ passion   : "Apps that solve real-world problems with AI"
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/shanmuka-p/shanmuka-p/blob/output/github-snake-dark.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/shanmuka-p/shanmuka-p/output/github-snake-dark.svg" alt="Snake animation"/>
 </p>
 
 
@@ -138,8 +138,8 @@ passion   : "Apps that solve real-world problems with AI"
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:shanmukareddy.padala@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-shanmukareddy.padala-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:shanmukareddypadala@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-shanmukareddypadala-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/shanmuka-reddy">
