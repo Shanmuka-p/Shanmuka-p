@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:EC4899&height=200&section=header&text=Padala%20Shanmuka%20Reddy&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=45"/>
+  <img src="./assets/banner.svg" alt="Padala Shanmuka Reddy - Mobile & Full Stack Developer" width="100%"/>
 </p>
-
-<h3 align="center">Mobile &amp; Full Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&multiline=false&width=750&lines=Flutter+%26+Full+Stack+Developer;AI-Powered+App+Builder;Firebase+%7C+Supabase+%7C+GCP+Engineer;Building+Real-World+AI+Apps"/>
