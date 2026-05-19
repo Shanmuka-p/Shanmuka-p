@@ -138,11 +138,11 @@ passion   : "Apps that solve real-world problems with AI"
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:shanmukareddypadala@gmail.com">
+  <a href="mailto:[shanmukareddypadala@gmail.com]">
     <img src="https://img.shields.io/badge/Gmail-shanmukareddypadala-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/shanmuka-reddy-padala">
+  <a href="https://www.linkedin.com/in/padala-shanmuka-reddy">
     <img src="https://img.shields.io/badge/LinkedIn-Shanmuka%20Reddy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
