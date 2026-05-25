@@ -26,8 +26,6 @@ location  : India
 currently :
   - 🔭 Building AI-integrated Flutter applications
   - 🌱 Mastering State Management (BLoC, GetX, Provider)
-  - ☁️  Exploring GCP Pub/Sub & Supabase Edge Functions
-
 passion   : "Apps that solve real-world problems with AI"
 ```
 
