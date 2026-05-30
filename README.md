@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&multiline=false&width=750&lines=Flutter+%26+Full+Stack+Developer;AI-Powered+App+Builder;Firebase+%7C+Supabase+%7C+GCP+Engineer;Building+Real-World+AI+Apps"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&multiline=false&width=750&lines=Flutter+%26+Full+Stack+Developer;AI-Powered+App+Builder;Firebase+%7C+Supabase+%7C+Software+Engineer;Building+Real-World+AI+Apps"/>
 </p>
 
 <p align="center">
@@ -26,8 +26,6 @@ location  : India
 currently :
   - 🔭 Building AI-integrated Flutter applications
   - 🌱 Mastering State Management (BLoC, GetX, Provider)
-  - ☁️  Exploring GCP Pub/Sub & Supabase Edge Functions
-
 passion   : "Apps that solve real-world problems with AI"
 ```
 
