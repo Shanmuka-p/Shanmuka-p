@@ -118,7 +118,7 @@ passion   : "Apps that solve real-world problems with AI"
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shanmuka-p&bg_color=0D1117&color=A855F7&line=6C63FF&point=EC4899&area=true&area_color=A855F720&hide_border=true&radius=12"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shanmuka-p&bg_color=0D1117&color=A855F7&line=6C63FF&point=EC4899&area=true&area_color=A855F720&hide_border=true&radius=12&v=1"/>
 </p>
 
 ---
@@ -126,7 +126,7 @@ passion   : "Apps that solve real-world problems with AI"
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shanmuka-p/Shanmuka-p/output/github-snake-dark.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/Shanmuka-p/Shanmuka-p/output/github-snake-dark.svg?v=1" alt="Snake animation"/>
 </p>
 
 
