@@ -106,7 +106,7 @@ passion   : "Apps that solve real-world problems with AI"
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Shanmuka-p&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=6C63FF&text_color=ffffff&border_radius=12" height="180"/>
   &nbsp;
-  <img src="https://streak-stats.demolab.com?user=Shanmuka-p&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=EC4899&currStreakLabel=A855F7&border_radius=12" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=Shanmuka-p&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=EC4899&currStreakLabel=A855F7&border_radius=12&v=1" height="180"/>
 </p>
 
 <p align="center">
