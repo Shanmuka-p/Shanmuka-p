@@ -22,9 +22,9 @@ jobs:
 
       - name: Update Cache Busters in README.md
         run: |
-          DATE_VAL=$(date +'%Y%m%d')
+          DATE_VAL=$(date +'%Y%m%d%H%M%S')
           echo "Updating cache busters in README.md to $DATE_VAL"
-          sed -E -i "s/([?&])v=[0-9]+/\1v=${DATE_VAL}/g" README.md
+          sed -E -i "s/([?&])v=[0-9a-zA-Z_-]+/\1v=${DATE_VAL}/g" README.md
 
       - name: Commit and Push README changes
         uses: stefanzweifel/git-auto-commit-action@v4
