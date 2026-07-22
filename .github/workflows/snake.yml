@@ -8,12 +8,30 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
     steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Update Cache Busters in README.md
+        run: |
+          DATE_VAL=$(date +'%Y%m%d')
+          echo "Updating cache busters in README.md to $DATE_VAL"
+          sed -E -i "s/([?&])v=[0-9]+/\1v=${DATE_VAL}/g" README.md
+
+      - name: Commit and Push README changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "chore: auto-update cache busters in README.md [skip ci]"
+          file_pattern: 'README.md'
+
       - name: Generate Snake SVG
         uses: Platane/snk/svg-only@v3
         with:
