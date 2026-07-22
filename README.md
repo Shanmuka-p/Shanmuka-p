@@ -115,14 +115,6 @@ passion   : "Apps that solve real-world problems with AI"
 
 ---
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shanmuka-p&bg_color=0D1117&color=A855F7&line=6C63FF&point=EC4899&area=true&area_color=A855F720&hide_border=true&radius=12&v=20260722134046"/>
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
