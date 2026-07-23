@@ -104,13 +104,13 @@ passion   : "Apps that solve real-world problems with AI"
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Shanmuka-p&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=6C63FF&text_color=ffffff&border_radius=12&v=20260723031431" height="180"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Shanmuka-p&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=6C63FF&text_color=ffffff&border_radius=12&v=20260723140811" height="180"/>
   &nbsp;
-  <img src="https://streak-stats.vercel.app?user=Shanmuka-p&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=EC4899&currStreakLabel=A855F7&border_radius=12&v=20260723031431" height="180"/>
+  <img src="https://streak-stats.vercel.app?user=Shanmuka-p&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=EC4899&currStreakLabel=A855F7&border_radius=12&v=20260723140811" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Shanmuka-p&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff&border_radius=12&v=20260723031431" height="160"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Shanmuka-p&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff&border_radius=12&v=20260723140811" height="160"/>
 </p>
 
 ---
@@ -118,7 +118,7 @@ passion   : "Apps that solve real-world problems with AI"
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shanmuka-p&bg_color=0D1117&color=A855F7&line=6C63FF&point=EC4899&area=true&area_color=A855F720&hide_border=true&radius=12&v=20260723031431"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shanmuka-p&bg_color=0D1117&color=A855F7&line=6C63FF&point=EC4899&area=true&area_color=A855F720&hide_border=true&radius=12&v=20260723140811"/>
 </p>
 
 ---
@@ -126,7 +126,7 @@ passion   : "Apps that solve real-world problems with AI"
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shanmuka-p/Shanmuka-p/output/github-snake-dark.svg?v=20260723031431" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/Shanmuka-p/Shanmuka-p/output/github-snake-dark.svg?v=20260723140811" alt="Snake animation"/>
 </p>
 
 ---
