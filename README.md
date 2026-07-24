@@ -123,14 +123,6 @@ passion   : "Apps that solve real-world problems with AI"
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Shanmuka-p/Shanmuka-p/output/github-snake-dark.svg?v=20260724135023" alt="Snake animation"/>
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
